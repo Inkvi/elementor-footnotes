@@ -1,0 +1,15 @@
+button.bigfoot-footnote__button.blue {
+    background-color: #4d96c6;
+}
+
+button.bigfoot-footnote__button.blue:after {
+    color: #fff;
+}
+        
+button.bigfoot-footnote__button.yellow {
+    background-color: #eebd4b;
+}
+
+button.bigfoot-footnote__button.yellow:after {
+    color: #fff;
+}
